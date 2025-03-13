@@ -9,6 +9,6 @@ _/ ___\|  | /  /_\  \| __ \  _(__  <_  __ \
 </pre>
 
 <pre>
-       Indie web enjoyer
-       dev in training
+Indie web enjoyer
+dev in training
 </pre>
