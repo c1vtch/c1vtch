@@ -8,6 +8,7 @@ _/ ___\|  | /  /_\  \| __ \  _(__  <_  __ \
 
 </pre>
 
-<p>
+<pre>
        Indie web enjoyer
-</p>
+       dev in training
+</pre>
