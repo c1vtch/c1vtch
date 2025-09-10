@@ -9,7 +9,7 @@ _/ ___\|   \  \/ /\   __\/ ___\|  |  \
 </pre>
 
 ### current obsession 
-```go
+
 - golang
-```
+
 
